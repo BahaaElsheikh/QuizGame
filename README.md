@@ -28,14 +28,10 @@ QuizGame/
 
 ## 🕹️ How to Run
 
-### Option 1: Using Visual Studio
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/<BahaaElsheikh>/<QuizGame>.git
-
-### Option 2: Using Command Line 
-cd QuizGame
-dotnet run --project QuizGame.csproj
 
 
 
