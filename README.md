@@ -33,6 +33,10 @@ QuizGame/
    ```bash
    git clone https://github.com/<BahaaElsheikh>/<QuizGame>.git
 
+## How it Works ? 
+
+See this Diagram :
+https://miro.com/app/board/uXjVJzb_Syg=/?share_link_id=601948029421
 
 
 📦 Data Source
