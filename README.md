@@ -49,6 +49,5 @@ Bahaa Elshikh
 ⭐ If you enjoyed this project, don’t forget to give it a star on GitHub — it really helps!
 
 
-<img width="325" height="74" alt="image" src="https://github.com/user-attachments/assets/15621b8e-2d15-4ae5-bc09-df0aae969aa6" />
 
 
